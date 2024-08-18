@@ -1,0 +1,16 @@
+* {
+    padding: 0; /*Define o preenchimento interno (padding) de todos os elementos como 0 pixels.*/
+    margin: 0; /*Define a margem externa (margin) de todos os elementos como 0 pixels.*/
+}
+body{
+    background-image: url("../img/fundo.jpg"); /*Adiciona a imagem ao fundo do documento*/
+    
+}
+.Calculadora{
+    width: 450px; /*Define o espaço em 450px*/
+    border: 15px solid green; /*define a borda com 15px*/
+    border-radius: 5px;
+    padding: 50px; /*Define o preenchimento interno como 50 px*/
+    margin: 20px; /*Define a margem como 20px*/
+    background-color: rgb(159, 241, 159); /*define a cor de fundo do formulário*/
+}
